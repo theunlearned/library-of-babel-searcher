@@ -162,12 +162,6 @@ quest/
 └── test_phase3_complete.py # Comprehensive Phase 3 tests
 ```
 
-## 📷 Screenshots
-
-![Manual Search Tab](screenshots/manual_search.png)
-![Analytics Tab](screenshots/analytics.png)
-![Coordinate Browser](screenshots/coordinate_browser.png)
-
 ## 🔬 Research Applications
 
 This tool serves multiple research and educational purposes:
